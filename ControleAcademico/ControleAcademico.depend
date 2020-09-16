@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1541043778 source:e:\usuario\desktop\trabalho estrutura\controleacademico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arquivo.h"
+	<stdbool.h>
+
+1541042556 e:\usuario\desktop\trabalho estrutura\controleacademico\arquivo.h
+
+1541043081 source:e:\usuario\desktop\trabalho estrutura\controleacademico\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1541096947 source:c:\users\klaud\desktop\uenp\2 ano\estrututa de dados\trabalho final klaudia marco\controleacademico\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1541096360 c:\users\klaud\desktop\uenp\2 ano\estrututa de dados\trabalho final klaudia marco\controleacademico\arquivo.h
+
+1541096919 source:c:\users\klaud\desktop\uenp\2 ano\estrututa de dados\trabalho final klaudia marco\controleacademico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arquivo.h"
+	<stdbool.h>
+
+1541198008 source:c:\users\rafael\desktop\controleacademico\controleacademico\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1541197894 c:\users\rafael\desktop\controleacademico\controleacademico\arquivo.h
+
+1541198644 source:c:\users\rafael\desktop\controleacademico\controleacademico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arquivo.h"
+	<stdbool.h>
+	<stdlib.h>
+
