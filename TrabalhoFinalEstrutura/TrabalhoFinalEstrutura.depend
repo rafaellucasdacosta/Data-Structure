@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1539306874 source:c:\users\a400978\desktop\trabalhofinalestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TFE.h"
+
+1539306784 c:\users\a400978\desktop\trabalhofinalestrutura\tfe.h
+
+1541082165 source:c:\users\ramon\google drive\pograminhas\coisas em c\trabalhofinalestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TFE.h"
+
+1541079643 c:\users\ramon\google drive\pograminhas\coisas em c\trabalhofinalestrutura\tfe.h
+
+1541081787 source:c:\users\ramon\google drive\pograminhas\coisas em c\trabalhofinalestrutura\tfe.c
+	<stdio.h>
+	<stdlib.h>
+	"TFE.h"
+
+1541067764 source:c:\users\rafael\desktop\trabalhofinalestrutura-20181102t162331z-001\trabalhofinalestrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TFE.h"
+
+1541065242 c:\users\rafael\desktop\trabalhofinalestrutura-20181102t162331z-001\trabalhofinalestrutura\tfe.h
+
+1541094620 source:c:\users\rafael\desktop\trabalhofinalestrutura-20181102t162331z-001\trabalhofinalestrutura\tfe.c
+	<stdio.h>
+	<stdlib.h>
+	"TFE.h"
+

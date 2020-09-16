@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541204359 source:c:\users\rafael\desktop\sistemaacademico\sistemaacademico.c
+	<stdio.h>
+	<stdlib.h>
+	"sistemaAcademico.h"
+
+1541204365 c:\users\rafael\desktop\sistemaacademico\sistemaacademico.h
+
+1541468684 source:c:\users\rafael\desktop\sistemaacademico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"sistemaAcademico.h"
+	<stdbool.h>
+
